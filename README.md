@@ -8,7 +8,7 @@
 
 <img width="200" height="200" align="right" src="https://i.pinimg.com/originals/98/8d/6e/988d6e82dd72311592dbe2c7af57cd81.gif">
 
-- 🌱 I’m currently learning **Next js, Godot**
+- 🌱 I’m currently learning **Next js, Blender 3D**
 
 - 💬 Ask me about **Laravel, Node js, Unity**
 
